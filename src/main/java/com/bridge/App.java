@@ -6,5 +6,7 @@ public class App {
         System.out.println( "Hello World!" );
         System.out.println("this is second commit");
         System.out.println("hot-fix update");
+        System.out.println("hot-fix 进行了热补丁修复了");
     }
 }
+
